@@ -1,0 +1,48 @@
+h1{
+  letter-spacing: 6;
+  text-decoration: underline;
+  text-align: center;
+  color: green
+}
+
+#me > img {
+  text-align: center;
+  border-radius: 20%;
+}
+
+.para{
+  width: 70%;
+  height: 150px;
+  background: black;
+  padding: 40px;
+  margin-left: 20px;
+  color: white;
+  margin-top: 10px;
+  margin-left: 200px;
+  text-align: left;
+  font-family:  monospace,sans-serif;
+  border: 2px solid;
+  border-radius: 10px;
+}
+.img > img {
+  border-radius: 20%;
+  text-align: center;
+}
+.list{
+  width: 70%;
+    height: 150px;
+    background: black;
+    padding: 40px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 200px;
+    text-align: left;
+    font-family:  monospace,sans-serif;
+    border: 2px solid;
+    border-radius: 10px;
+    letter-spacing: 6;
+    text-decoration: underline;
+}
+
+/* responsive design */
